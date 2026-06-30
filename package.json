@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vadim-garbuz/stealth-tek-qa-take-home#readme",
   "devDependencies": {
+    "@faker-js/faker": "^10.5.0",
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.0.1",
     "prettier": "^3.9.4"
