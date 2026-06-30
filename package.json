@@ -1,0 +1,24 @@
+{
+  "name": "stealth-tek-qa-take-home",
+  "version": "1.0.0",
+  "description": "SDET Technical Assessment – API TestAutomation Exercise",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadim-garbuz/stealth-tek-qa-take-home.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vadim-garbuz/stealth-tek-qa-take-home/issues"
+  },
+  "homepage": "https://github.com/vadim-garbuz/stealth-tek-qa-take-home#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1",
+    "prettier": "^3.9.4"
+  }
+}
